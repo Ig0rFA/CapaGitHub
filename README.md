@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Igor Ferreira
 
 - 🔭 I'm making a career transition to Developer
-- 🌱 I’m currently learning HTML / CSS / JAVACRIPT 
+- 🌱 I’m currently learning HTML / CSS / JAVASCRIPT 
 - 😄 Pronouns: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ig0rFA&show_icons=true&theme=radical)
