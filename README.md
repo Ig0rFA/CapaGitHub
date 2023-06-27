@@ -1,8 +1,12 @@
-### Seja Bem Vindo !!
+### Seja Bem Vindo !
 
-- 🔭 I'm making a career transition to Developer
-- 🌱 I’m currently learning HTML / CSS / JAVA /
-- 😄 Estudante na Facens
+
+Ola, me chamo Igor 
+
+ ✨ 
+ 🧑‍💻 
+ 😄 
+  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ig0rFA&theme=shadow_red&show_icons=true)
 
