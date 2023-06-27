@@ -5,7 +5,7 @@ Ola, me chamo Igor
 
  ✨ 
  🧑‍💻 
- 😄 
+ 🗝️
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ig0rFA&theme=shadow_red&show_icons=true)
